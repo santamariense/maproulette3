@@ -1,5 +1,5 @@
 {
-  "ActivityTimeline.UserActivityTimeline.header": "Your Recent Activity",
+  "ActivityTimeline.UserActivityTimeline.header": "Sua atividade recente",
   "BurndownChart.heading": "Tasks Remaining: {taskCount, number}",
   "BurndownChart.tooltip": "Tasks Remaining",
   "CalendarHeatmap.heading": "Daily Heatmap: Task Completion",
