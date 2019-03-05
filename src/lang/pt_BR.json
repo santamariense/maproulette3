@@ -10,7 +10,7 @@
   "Admin.ChallengeAnalysisTable.columnHeaders.enabled": "Visible",
   "Admin.ChallengeAnalysisTable.columnHeaders.lastActivity": "Last Activity",
   "Admin.ChallengeAnalysisTable.controls.manageChallenge.label": "Manage",
-  "Admin.ChallengeAnalysisTable.controls.editChallenge.label": "Edit",
+  "Admin.ChallengeAnalysisTable.controls.editChallenge.label": "Editar",
   "Admin.ChallengeAnalysisTable.controls.startChallenge.label": "Start",
   "Admin.ChallengeAnalysisTable.controls.cloneChallenge.label": "Clone",
   "Admin.ChallengeAnalysisTable.controls.showStatusColumns.label": "Include status columns",
